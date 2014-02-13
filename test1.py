@@ -1,4 +1,4 @@
 __author__ = 'mouedrassi'
 
-print 'abcdddddyyyyy'
+print 'abcddddd'
 print 123456789222222999555
